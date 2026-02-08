@@ -40,16 +40,12 @@ Procuro aproveitar cada oportunidade dada a mim para aprender, evoluir e melhora
 
 ---
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duque31&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duque31&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=duque31&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=duque31&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=duque31&theme=transparent&hide_border=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=duque31&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
 </div>
 
-###
+---
 
 <br clear="both">
 
@@ -59,7 +55,8 @@ Procuro aproveitar cada oportunidade dada a mim para aprender, evoluir e melhora
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
 ###
 <p align="center">
 <i>"A tecnologia move o mundo?"</i> 
