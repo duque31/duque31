@@ -1,41 +1,35 @@
----
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja++Bem+vindo!+👋)](https://git.io/typing-svg)
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
+#
 <p align="center">
   <img src=".github/workflows/duque github (1280 x 320 px).gif" />
 </p>
-<h3 align="center">
-  👑 Gabriel Victor Duque Freitas 👑
-  
 </h3>
-<p align="center">
-   ADS Student at UNIPㅤ|ㅤSoftware Developmentㅤ|ㅤLifelong Learner 
 
----
+#
 <p align="left">
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na UNIP e tenho grande interesse por desenvolvimento de software, automação e criação de soluções tecnológicas. Gosto de aprender coisas novas, enfrentar desafios e buscar sempre evoluir, tanto no lado profissional quanto pessoal, Sou uma pessoa esforçada, dedicada, responsável com muito comprometimento. 
-Procuro aproveitar cada oportunidade dada a mim para aprender, evoluir e melhorar minhas habilidades e colocar em prática tudo aquilo que estudo, buscando me desenvolver cada vez mais como profissional e como pessoa.
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNIP. Tenho interesse na área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço.
+Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.
 
----
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+#
+<h3 align="left">My Stack:</h3> <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
----
+#
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=duque31&theme=transparent&hide_border=true" />
   <img src="https://github-contributor-stats.vercel.app/api?username=duque31&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
 </div>
 
----
+#
 
 <br clear="both">
 
@@ -45,7 +39,7 @@ Procuro aproveitar cada oportunidade dada a mim para aprender, evoluir e melhora
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
 </picture>
 
----
+#
 
 ###
 <p align="center">
