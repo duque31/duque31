@@ -1,9 +1,9 @@
-
 ---
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja++Bem+vindo!+👋)](https://git.io/typing-svg)
 ---
-
+<p align="center">
+  <img src="link-do-seu-gif.gif" />
+</p>
 <h3 align="center">
   👑 Gabriel Victor Duque Freitas 👑
   
