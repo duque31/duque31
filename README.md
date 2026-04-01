@@ -22,12 +22,6 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-#
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=duque31&theme=transparent&hide_border=true" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=duque31&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
-</div>
 
 #
 
